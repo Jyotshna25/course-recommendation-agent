@@ -1,0 +1,78 @@
+[
+    {
+        "student": "Rahul",
+        "goal": "Machine Learning and Artificial Intelligence",
+        "learning_path": [
+            {
+                "course": "Python Programming Fundamentals",
+                "reason": "Strengthens Python programming and problem-solving skills required for machine learning."
+            },
+            {
+                "course": "SQL and Database Fundamentals",
+                "reason": "Builds strong data management skills needed to work with datasets in AI and machine learning."
+            },
+            {
+                "course": "Machine Learning Fundamentals",
+                "reason": "Introduces supervised and unsupervised learning and provides the foundation for AI development."
+            }
+        ]
+    },
+    {
+        "student": "Priya",
+        "goal": "Full Stack Development",
+        "learning_path": [
+            {
+                "course": "HTML and CSS Fundamentals",
+                "reason": "Provides the foundation for creating and styling web pages."
+            },
+            {
+                "course": "JavaScript Programming",
+                "reason": "Adds programming and interactivity to web applications."
+            },
+            {
+                "course": "Web Development Fundamentals",
+                "reason": "Combines frontend concepts with application development skills."
+            }
+        ]
+    },
+    {
+        "student": "Arjun",
+        "goal": "Data Science",
+        "learning_path": [
+            {
+                "course": "Python Programming Fundamentals",
+                "reason": "Provides the programming foundation required for data analysis and data science."
+            },
+            {
+                "course": "Data Analysis with Python",
+                "reason": "Develops practical skills for cleaning, analyzing and understanding datasets."
+            },
+            {
+                "course": "Machine Learning Fundamentals",
+                "reason": "Builds predictive modeling skills that are essential for advanced data science."
+            }
+        ]
+    },
+    {
+        "student": "Sneha",
+        "goal": "Generative AI and Natural Language Processing",
+        "learning_path": [
+            {
+                "course": "Python Programming Fundamentals",
+                "reason": "Python is widely used for AI, NLP and generative AI development."
+            },
+            {
+                "course": "Machine Learning Fundamentals",
+                "reason": "Provides the mathematical and algorithmic foundation required to understand modern AI systems."
+            },
+            {
+                "course": "Natural Language Processing",
+                "reason": "Introduces techniques for working with human language and text-based AI applications."
+            },
+            {
+                "course": "Generative AI Fundamentals",
+                "reason": "Builds on machine learning and NLP knowledge to understand and develop generative AI applications."
+            }
+        ]
+    }
+]

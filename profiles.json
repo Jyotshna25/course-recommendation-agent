@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Rahul",
+        "background": "CSE student",
+        "goals": [
+            "Machine Learning",
+            "Artificial Intelligence"
+        ],
+        "known_skills": [
+            "Python",
+            "SQL"
+        ],
+        "completed_courses": []
+    },
+    {
+        "name": "Priya",
+        "background": "IT student",
+        "goals": [
+            "Full Stack Development"
+        ],
+        "known_skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "completed_courses": []
+    },
+    {
+        "name": "Arjun",
+        "background": "Data Science student",
+        "goals": [
+            "Data Science"
+        ],
+        "known_skills": [
+            "Python",
+            "Pandas",
+            "NumPy"
+        ],
+        "completed_courses": []
+    },
+    {
+        "name": "Sneha",
+        "background": "CSE student",
+        "goals": [
+            "Generative AI",
+            "Natural Language Processing"
+        ],
+        "known_skills": [
+            "Python",
+            "Git"
+        ],
+        "completed_courses": []
+    }
+]

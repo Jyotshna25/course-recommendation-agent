@@ -1,0 +1,92 @@
+[
+  {
+    "id": "python-basics",
+    "name": "Python Programming Fundamentals",
+    "level": "beginner",
+    "skills": ["python", "programming", "problem solving"],
+    "prerequisites": [],
+    "duration": "4 weeks",
+    "description": "Learn Python syntax, variables, data types, functions, loops, and basic problem solving."
+  },
+  {
+    "id": "data-structures",
+    "name": "Data Structures and Algorithms",
+    "level": "intermediate",
+    "skills": ["data structures", "algorithms", "problem solving"],
+    "prerequisites": ["python-basics"],
+    "duration": "6 weeks",
+    "description": "Learn arrays, linked lists, stacks, queues, trees, searching, sorting, and algorithmic thinking."
+  },
+  {
+    "id": "sql-database",
+    "name": "SQL and Database Fundamentals",
+    "level": "beginner",
+    "skills": ["sql", "databases"],
+    "prerequisites": [],
+    "duration": "3 weeks",
+    "description": "Learn relational databases, SQL queries, joins, filtering, aggregation, and database design."
+  },
+  {
+    "id": "machine-learning",
+    "name": "Machine Learning Fundamentals",
+    "level": "intermediate",
+    "skills": ["machine learning", "python", "statistics"],
+    "prerequisites": ["python-basics"],
+    "duration": "6 weeks",
+    "description": "Learn supervised and unsupervised learning, model evaluation, preprocessing, and common ML algorithms."
+  },
+  {
+    "id": "deep-learning",
+    "name": "Deep Learning with Neural Networks",
+    "level": "advanced",
+    "skills": ["deep learning", "neural networks", "machine learning"],
+    "prerequisites": ["machine-learning"],
+    "duration": "8 weeks",
+    "description": "Learn neural networks, backpropagation, CNNs, training techniques, and deep learning workflows."
+  },
+  {
+    "id": "nlp",
+    "name": "Natural Language Processing",
+    "level": "advanced",
+    "skills": ["nlp", "language models", "text processing"],
+    "prerequisites": ["machine-learning"],
+    "duration": "6 weeks",
+    "description": "Learn text preprocessing, embeddings, sentiment analysis, transformers, and language-model concepts."
+  },
+  {
+    "id": "web-development",
+    "name": "Web Development Fundamentals",
+    "level": "beginner",
+    "skills": ["html", "css", "javascript", "web development"],
+    "prerequisites": [],
+    "duration": "6 weeks",
+    "description": "Learn HTML, CSS, JavaScript, responsive design, and fundamental web development concepts."
+  },
+  {
+    "id": "react",
+    "name": "React.js Development",
+    "level": "intermediate",
+    "skills": ["react", "javascript", "frontend development"],
+    "prerequisites": ["web-development"],
+    "duration": "5 weeks",
+    "description": "Build modern frontend applications using React, components, state, props, hooks, and APIs."
+  },
+  {
+    "id": "cloud-computing",
+    "name": "Cloud Computing Fundamentals",
+    "level": "beginner",
+    "skills": ["cloud computing", "aws", "deployment"],
+    "prerequisites": ["python-basics"],
+    "duration": "4 weeks",
+    "description": "Learn cloud concepts, compute, storage, networking, deployment, and basic AWS services."
+  },
+  {
+    "id": "generative-ai",
+    "name": "Generative AI and LLMs",
+    "level": "advanced",
+    "skills": ["generative ai", "llms", "prompt engineering"],
+    "prerequisites": ["machine-learning", "nlp"],
+    "duration": "5 weeks",
+    "description": "Learn large language models, prompting, embeddings, retrieval-augmented generation, and AI applications."
+  }
+]
